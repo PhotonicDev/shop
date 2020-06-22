@@ -8,7 +8,12 @@
   "extraDependencies": [
     "manifest.json",
     "node_modules/@webcomponents/webcomponentsjs/**",
-    "push-manifest.json"
+    "push-manifest.json",
+    "widget/oneclick2.js",
+    "widget/style.css",
+    "widget/call.png",
+    "widget/hangup.png",
+    "widget/pause.png"
   ],
   "builds": [
     {
